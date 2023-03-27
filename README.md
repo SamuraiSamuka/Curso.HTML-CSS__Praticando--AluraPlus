@@ -9,11 +9,10 @@
 | :fire: Cursos               | [Praticando HTML e CSS](https://www.alura.com.br/curso-online-html-css-praticando-html-css)
 | :mortar_board: Certificados | [Ainda não concluído]()
 
-![](https://3.bp.blogspot.com/-sbRzWXGOtUg/VKyLqYyurJI/AAAAAAAAAAM/wGbmdFErwz4/s1600/site_em_construcao.jpg#vitrinedev)
-https://raw.githubusercontent.com/SamuraiSamuka/ReactJS-Router--OlaMundo/main/src/assets/OlaMundo.png
+![](./assets/capa.png)
 
 # Detalhes do projeto
-[design do figma]()
+Projeto desenvolvido durante o curso [Praticando HTML e CSS](https://www.alura.com.br/curso-online-html-css-praticando-html-css), da Alura, com base no [design do Alura Plus figma](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=0-1&t=7PrcRBfQCb5k8B6Z-0)
 
 ## Conceitos aprendidos
 a
