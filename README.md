@@ -4,7 +4,7 @@
 | ------------------------    | --- |
 | :sparkles: Nome             | **Alura Plus**
 | :label: Tecnologias         | HTML e CSS
-| :rocket: Deploy             | [Acesse aqui](alura-plus--praticando-html-css.vercel.app)
+| :rocket: Deploy             | [Acesse aqui](https://alura-plus--praticando-html-css.vercel.app)
 | :fire: Curso                | [Praticando HTML e CSS](https://www.alura.com.br/curso-online-html-css-praticando-html-css)
 | :mortar_board: Certificados | [Veja aqui](https://cursos.alura.com.br/user/samurai-samuka/course/html-css-praticando-html-css/certificate)
 
